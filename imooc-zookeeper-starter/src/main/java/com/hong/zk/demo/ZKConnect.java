@@ -8,7 +8,7 @@ import org.apache.zookeeper.ZooKeeper;
 import java.io.IOException;
 
 /**
- * Description     :
+ * Description     :  demo1 连接测试
  */
 @Slf4j
 public class ZKConnect implements Watcher {
